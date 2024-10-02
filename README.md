@@ -1,6 +1,9 @@
+<h1 align="center">Hi 👋, I'm Gauransh Sharma</h1>
+<h3 align="center">A passionate Frontend & Software developer from India</h3>
+
 
 # 💫 About Me:
-👨‍💻 Frontend Web Developer<br>⚡ Tech Content Creator<br>💼 Open To Job Opportunities<br>
+🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast.<br> I'm always ready to learn new things with Effective ideas.<br>👨‍💻 Frontend Web Developer <br> 👁‍🗨 Open Source Contributor <br>👨‍💻 Love to learn new technologies and to explore new sets of areas <br>  💼 Open To Job Opportunities <br>  
 
 
 ## 🌐 Socials:
