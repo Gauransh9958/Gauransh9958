@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gauransh Sharma</h1>
-<h3 align="center">A passionate Frontend & Software developer from India</h3>
+![image](https://github.com/user-attachments/assets/3cf307be-2260-432b-af58-7a8957584681)<h1 align="center">Hi 👋, I'm Gauransh Sharma</h1>
+<h2 align="center">A Passionate Frontend & Software Developer from India</h2>
 
 
 # 💫 About Me:
-🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast.<br> I'm always ready to learn new things with Effective ideas.<br>👨‍💻 Frontend Web Developer <br> 👁‍🗨 Open Source Contributor <br>👨‍💻 Love to learn new technologies and to explore new sets of areas <br>  💼 Open To Job Opportunities <br>  
+🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast.<br> I'm always ready to learn new things with Effective ideas.<br>👨‍💻 Frontend Web Developer <br> 👁‍🗨 Open Source Contributor <br>👨‍💻 Love to learn new technologies and to explore new sets of areas <br> 
 
 
 ## 🌐 Socials:
