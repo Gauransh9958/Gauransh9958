@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3cf307be-2260-432b-af58-7a8957584681)<h1 align="center">Hi 👋, I'm Gauransh Sharma</h1>
+<h1 align="center">Hi 👋, I'm Gauransh Sharma</h1>
 <h2 align="center">A Passionate Frontend & Software Developer from India</h2>
 
 
