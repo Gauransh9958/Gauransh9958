@@ -6,6 +6,7 @@
 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast.<br> I'm always ready to learn new things with Effective ideas.<br>👨‍💻 Frontend Web Developer <br> 👁‍🗨 Open Source Contributor <br>👨‍💻 Love to learn new technologies and to explore new sets of areas <br> 
 
 
+
 ## ❤️ to Code On:
 <p align="left">
 <a href="https://www.leetcode.com/gauransh_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauransh_s" height="30" width="40" /></a>
@@ -15,12 +16,12 @@
 <a href="https://codeforces.com/profile/gauransh9958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gauransh9958" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gam_whirl_89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gam_whirl_89" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@gauransh1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@gauransh1104" height="30" width="40" /></a>
-
 </p>
 
 
-# 💻 Tech Stack:
 
+
+# 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -45,8 +46,8 @@
 
 
 
-## 📧 Connect with me:
 
+## 📧 Connect with me:
 <a href="https://www.linkedin.com/in/gauransh-sharma-9b227a1bb/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gauransh Sharma"/>
  </a>
@@ -66,9 +67,7 @@
 
 
 
-
 # 📊 GitHub Stats:
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauransh9958&show_icons=true&locale=en&layout=compact" alt="gauransh9958" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauransh9958&show_icons=true&locale=en" alt="gauransh9958" /></p>
