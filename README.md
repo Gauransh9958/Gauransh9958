@@ -9,7 +9,8 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/gauransh_s75459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauransh_s75459" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gauransh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauransh sharma" height="30" width="40" /></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gauransh sharma)
 <a href="https://stackoverflow.com/users/gauransh-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gauransh-sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/gauransh9958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gauransh9958" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gam_whirl_89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gam_whirl_89" height="30" width="40" /></a>
@@ -17,6 +18,10 @@
 <a href="https://codeforces.com/profile/gauransh9958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gauransh9958" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gauransh_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gauransh_s" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@gauransh1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@gauransh1104" height="30" width="40" /></a>
+  
+
+
+
 <a href="https://auth.geeksforgeeks.org/user/gauransh_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauransh_sh" height="30" width="40" /></a>
 </p>
 
