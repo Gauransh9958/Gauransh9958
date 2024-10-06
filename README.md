@@ -16,11 +16,6 @@
 <a href="https://codeforces.com/profile/gauransh9958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gauransh9958" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gam_whirl_89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gam_whirl_89" height="30" width="40" color="white" /></a>
 <a href="https://www.hackerearth.com/@gauransh1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-    generator/master/src/images/icons/Social/hackerearth.svg" alt="@gauransh1104" height="30" width="40" /></a>
-<img src="he.png" height="40px" width="40px"> 
-<img src="cc.png" height="40px" width="40px">
-
-
-
 </p>
 
 
