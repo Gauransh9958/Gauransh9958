@@ -2,7 +2,7 @@
 <h2 align="center">A Passionate Frontend & Software Developer from India</h2>
 
 
-# 💫 About Me:
+## 💫 About Me:
 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast.<br> I'm always ready to learn new things with Effective ideas.<br>👨‍💻 Frontend Web Developer <br> 👁‍🗨 Open Source Contributor <br>👨‍💻 Love to learn new technologies and to explore new sets of areas <br> 
 
 
